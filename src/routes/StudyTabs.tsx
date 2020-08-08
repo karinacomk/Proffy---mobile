@@ -22,8 +22,8 @@ function StudyTabs() {
                 },
                 iconStyle: {
                     flex: 0,
-                    width: 20,
-                    height: 20
+                    width: 23,
+                    height: 23
                 },
                 labelStyle: {
                     fontFamily: 'Archivo_700Bold',
